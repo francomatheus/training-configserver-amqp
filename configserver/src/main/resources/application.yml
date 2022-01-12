@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: configserver-app
+  cloud:
+    config:
+      enabled: true
+      server:
+        git:
+          uri: 
