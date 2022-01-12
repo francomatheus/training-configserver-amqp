@@ -1,4 +1,9 @@
 spring:
-  application:
-    name: app
-    
+  config:
+    import: optional:configserver:http://localhost:8888
+  cloud:
+    config:
+      name: myapp
+
+messaging:
+  controller: "Sera entregue no controller"
