@@ -22,7 +22,7 @@
 
 A seguir uma imagem para representar: 
 
-(https://github.com/francomatheus/training-configserver-amqp/blob/main/image/processo-manual.png)
+![](https://github.com/francomatheus/training-configserver-amqp/blob/main/image/processo-manual.png)
 
 
 ### Utilizando message-broker
@@ -31,4 +31,4 @@ A seguir uma imagem para representar:
 
 A seguir uma imagem para representar a estrutura: 
 
-(https://github.com/francomatheus/training-configserver-amqp/blob/main/image/spring-cloud-config-rabbitmq.png)
+![](https://github.com/francomatheus/training-configserver-amqp/blob/main/image/spring-cloud-config-rabbitmq.png)
